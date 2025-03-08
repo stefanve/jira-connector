@@ -1,8 +1,7 @@
-# Thanks All!
+# Cuttlery
 
-I no longer have the time, energy or interest to maintain this project, so I'm going to be archiving it.
+This is a fork of the no longer maintained https://floralvikings.github.io/jira-connector/ that deals with Atlassians use of CloudFlare and empty 'body' in a GET call.
 
-As an alternative to jira-connector, try: https://github.com/MrRefactoring/jira.js
 
 # JavaScript Jira API Wrapper for NodeJS
 
@@ -20,13 +19,13 @@ Please update your code accordingly.
 Install with [npm](http://npmjs.org/):
 
 ```bash
-    $ npm install jira-connector
+    $ npm install stefanve/jira-connector
 ```
 
 Install via Git clone:
 
 ```bash
-    $ git clone https://github.com/floralvikings/jira-connector.git
+    $ git clone https://github.com/stefanve/jira-connector.git
     $ cd jira-connector
     $ npm install
 ```
